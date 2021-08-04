@@ -1,0 +1,4 @@
+1. Testes de Unidade são feitos para testar comportamentos singulares do sistema, como um único método ou classe, enquanto testes funcionais integram fatias maiores 
+desse sistema, como interação entre dependências, para testar uma funcionalidade como um todo.
+2. Testes de Unidade são de rápida execução, e são executados várias vezes durante o ciclo de desenvolvimento de um sistema. Testes funcionais são mais custosos e
+executados menos vezes durante o ciclo de desenvolvimento.
